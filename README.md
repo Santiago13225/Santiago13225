@@ -4,7 +4,7 @@ Santiago Alvarez Bermudez
 Amateur Game Developer
 --------------
 
-I am a computer science major from Sacramento State University. Currently working on what you may describe as a personal pasion project.
+I am a computer science major from Sacramento State University. Currently working on what you may describe as a personal passion project.
 
 * 🌍  I'm based in Sacramento, CA.
 * 🖥️  See my portfolio at [https://santi2001bermudez.wixsite.com/minus](http://santi2001bermudez.wixsite.com/minus)
