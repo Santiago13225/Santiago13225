@@ -11,9 +11,6 @@ I am a computer science major from Sacramento State University. Currently workin
 * ✉️  You can contact me at [santi.2001bermudez@gmail.com](mailto:santi.2001bermudez@gmail.com)
 * ⚡  Let go and the beginning will become the end... The end will lead to another beginning...
 
-<a href="https://www.github.com/Santiago13225" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Santiago13225?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
